@@ -1,0 +1,26 @@
+{
+  "name": "js-basics",
+  "version": "1.0.0",
+  "description": "Understand the fundamental concepts in JavaScript",
+  "main": "./js/main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwinchester/js-basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwinchester/js-basics/issues"
+  },
+  "homepage": "https://github.com/dwinchester/js-basics#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
+  }
+}
